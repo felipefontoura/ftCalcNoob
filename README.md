@@ -1,16 +1,12 @@
-# myapp
+# AULA AO VIVO: Dart e Flutter do Zero ao Noob
 
-A new Flutter project.
+Prof. Felipe Fontoura.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+1. Acessar o site do fabricante (via Google)
+2. Seguir o tutorial para noobs (instalação e criação do primeiro app)
+3. Rodar o Hello World (isolar os problemas)
+4. Início ignorar erros bobos (conviver com problemas)
+5. Definir um desafio plausível e tempo (calculadora)
+6. Fazer simples, sem frescura.
+7. Tentar assimilar através de outra linguagem (dicionário)
+8. Incrementar o que for possível **SE** finalizar etapa 6.
